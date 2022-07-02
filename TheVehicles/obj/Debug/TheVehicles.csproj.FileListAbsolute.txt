@@ -1,0 +1,13 @@
+F:\Danny\Kuliah\Sem 2\Pemrograman\Praktikum 7\TheVehicles\TheVehicles\bin\Debug\TheVehicles.exe.config
+F:\Danny\Kuliah\Sem 2\Pemrograman\Praktikum 7\TheVehicles\TheVehicles\bin\Debug\TheVehicles.exe
+F:\Danny\Kuliah\Sem 2\Pemrograman\Praktikum 7\TheVehicles\TheVehicles\bin\Debug\TheVehicles.pdb
+F:\Danny\Kuliah\Sem 2\Pemrograman\Praktikum 7\TheVehicles\TheVehicles\obj\Debug\TheVehicles.csprojAssemblyReference.cache
+F:\Danny\Kuliah\Sem 2\Pemrograman\Praktikum 7\TheVehicles\TheVehicles\obj\Debug\TheVehicles.exe
+F:\Danny\Kuliah\Sem 2\Pemrograman\Praktikum 7\TheVehicles\TheVehicles\obj\Debug\TheVehicles.pdb
+C:\Users\Danny Nurakhmad\Documents\Kuliah\Sem 2\Pemrograman\Praktikum 7\TheVehicles\TheVehicles\bin\Debug\TheVehicles.exe.config
+C:\Users\Danny Nurakhmad\Documents\Kuliah\Sem 2\Pemrograman\Praktikum 7\TheVehicles\TheVehicles\bin\Debug\TheVehicles.exe
+C:\Users\Danny Nurakhmad\Documents\Kuliah\Sem 2\Pemrograman\Praktikum 7\TheVehicles\TheVehicles\bin\Debug\TheVehicles.pdb
+C:\Users\Danny Nurakhmad\Documents\Kuliah\Sem 2\Pemrograman\Praktikum 7\TheVehicles\TheVehicles\obj\Debug\TheVehicles.csprojAssemblyReference.cache
+C:\Users\Danny Nurakhmad\Documents\Kuliah\Sem 2\Pemrograman\Praktikum 7\TheVehicles\TheVehicles\obj\Debug\TheVehicles.csproj.CoreCompileInputs.cache
+C:\Users\Danny Nurakhmad\Documents\Kuliah\Sem 2\Pemrograman\Praktikum 7\TheVehicles\TheVehicles\obj\Debug\TheVehicles.exe
+C:\Users\Danny Nurakhmad\Documents\Kuliah\Sem 2\Pemrograman\Praktikum 7\TheVehicles\TheVehicles\obj\Debug\TheVehicles.pdb
